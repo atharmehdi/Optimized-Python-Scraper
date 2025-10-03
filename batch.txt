@@ -1,0 +1,7 @@
+"C:\Program Files\Google\Chrome\Application\chrome.exe" ^
+  --remote-debugging-port=9222 ^
+  --user-data-dir="C:\Users\atharsa\ChromeSelenium" ^
+  --profile-directory="Default" ^
+  --disable-renderer-backgrounding ^
+  --disable-background-timer-throttling ^
+  --disable-backgrounding-occluded-windows
